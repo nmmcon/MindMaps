@@ -1,2 +1,2 @@
-# WebApplication
-Web Application Vulnerabilities Mind Map
+# WebApplicationHacking
+Web Application Vulnerabilities Mind Maps
